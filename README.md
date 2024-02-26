@@ -1,4 +1,4 @@
-# Video Transcription and Subtitling using AI
+# Video Transcription and Subtitling using ML
 
 This project involves converting video speech to text using the Whisper ASR model and generating subtitles. The code is designed for a specific use case and includes features such as splitting the text into lines, creating captions, and overlaying them on the original video.
 
