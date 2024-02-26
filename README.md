@@ -26,5 +26,3 @@ This project involves converting video speech to text using the Whisper ASR mode
 
 Make sure to install these dependencies before running the code.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
